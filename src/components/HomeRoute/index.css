@@ -1,0 +1,28 @@
+.home-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.home-para {
+  color: #ffffff;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.job-button {
+  background-color: #6366f1;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  height: 50px;
+  width: 100px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.home-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+}
